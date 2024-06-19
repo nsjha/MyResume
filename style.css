@@ -1,0 +1,11 @@
+.title{
+    color: cadetblue;
+    text-align: center;
+    font-style: italic ;
+    text-decoration: underline;
+}
+header h1{
+    color: rgb(108, 156, 48);
+    text-align: left;
+    font-style: oblique;
+}
